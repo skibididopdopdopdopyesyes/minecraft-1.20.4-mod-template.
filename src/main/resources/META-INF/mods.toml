@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="mymod"
+version="1.0.0"
+displayName="My First Mod"
+description="A basic mod template for Minecraft 1.20.4"
+authors="YourName"
